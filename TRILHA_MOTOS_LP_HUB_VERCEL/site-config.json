@@ -1,0 +1,23 @@
+{
+  "business": {
+    "name": "Trilha Motos",
+    "phone_display": "(31) 98838-6326",
+    "phone_e164": "5531988386326",
+    "address": "Rua Ester, 725 - Canaã, Ipatinga - MG, 35164-517",
+    "current_representative_brand": "Rieju"
+  },
+  "links": {
+    "whatsapp": "https://wa.me/5531988386326",
+    "maps": "https://www.google.com/maps/search/?api=1&query=-19.4507116,-42.5545147",
+    "rieju": "https://www.rieju.com.br/encontre-um-revendedor/minas-gerais/",
+    "instagram": "https://www.instagram.com/lojatrilha.motos/",
+    "facebook": "https://www.facebook.com/profile.php?id=61550253424433",
+    "community": "https://chat.whatsapp.com/L9OxNnVgyA6JcipJMbfo2b"
+  },
+  "deployment": {
+    "platform": "Vercel",
+    "framework": "Other",
+    "build_command": null,
+    "output_directory": "."
+  }
+}

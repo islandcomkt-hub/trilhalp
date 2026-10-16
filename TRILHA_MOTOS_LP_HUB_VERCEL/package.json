@@ -1,0 +1,6 @@
+{
+  "name":"trilha-motos-lp-hub",
+  "version":"1.0.0",
+  "private":true,
+  "scripts":{"dev":"npx serve .","check":"node tests/check.mjs"}
+}
